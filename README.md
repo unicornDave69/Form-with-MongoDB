@@ -1,0 +1,1 @@
+The goal was to create a simple project to learn how to use the MongoDB database. So I chose a formulary project, where I take user data and store it in the database. This is my first encounter with the database. I chose a school theme for the form.
